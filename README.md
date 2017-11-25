@@ -1,4 +1,4 @@
-# kandayi
+# vue frame
 
 > A Vue.js project
 
